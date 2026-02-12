@@ -87,7 +87,7 @@ python train.py
 
 Generates post-treatment gene expression profiles for new molecules.  
 - Input: Pre-treatment expression and molecule SMILES  
-- Output: `out1.csv`  
+- Output: `out.csv`  
 
 ```bash
 python predict.py
