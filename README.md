@@ -4,6 +4,8 @@ MolPerturbDiff is a structure-conditioned diffusion framework designed to predic
 
 ---
 
+![MolPerturbDiff Workflow](images/Graphical Abstract.png)
+
 ## Features
 
 - **Structure-conditioned diffusion model:** Predicts post-treatment gene expression changes given pre-treatment profiles.
