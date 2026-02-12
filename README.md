@@ -84,6 +84,8 @@ Trains the conditional diffusion model to predict Δ given pre-treatment express
 ```bash
 python train.py
 ```
+data/        <-- Training data example (molecules.csv, expression.csv)
+example/     <-- Prediction data example (predict_molecules.csv, predict_expression.csv)
 
 ### 5. Predict Post-treatment Expression
 
