@@ -4,7 +4,7 @@ MolPerturbDiff is a structure-conditioned diffusion framework designed to predic
 
 ---
 
-![MolPerturbDiff Workflow](images/Graphical Abstract.png)
+![MolPerturbDiff Workflow](images/Graphical%20Abstract.png)
 
 ## Features
 
